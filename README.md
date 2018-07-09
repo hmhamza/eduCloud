@@ -43,7 +43,7 @@ Any one related to the field of studies e.g. students, teachers, researchers, et
 ### User Interface Mocks
 
 #### Main screen
-![Main screen]()
+![Main screen](https://github.com/hmhamza/educloud/blob/master/User%20Interface%20Mocks/main%20screen.jpg)
  
 This is the main screen of the app. User can search his query which can lead him to the Search Results Screen. User can also do the advanced search on Advanced Search Screen which allows him to apply some filters on his query. User can click on Contribute button which leads him to the Contribute Screen.
 
