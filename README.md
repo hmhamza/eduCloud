@@ -49,7 +49,7 @@ This is the main screen of the app. User can search his query which can lead him
 
 
 #### Search results
- ![Search results]()
+ ![Search results](https://github.com/hmhamza/educloud/blob/master/User%20Interface%20Mocks/search%20results%20screen.jpg)
 This screen displays the search results that the user searched for on the main screen. User can also search for a new query on this screen.
 
 #### Advanced search
