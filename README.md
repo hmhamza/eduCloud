@@ -43,23 +43,26 @@ Any one related to the field of studies e.g. students, teachers, researchers, et
 ### User Interface Mocks
 
 #### Main screen
+![Main screen](https://github.com/hmhamza/educloud/blob/master/User%20Interface%20Mocks/main%20screen.jpg)
  
 This is the main screen of the app. User can search his query which can lead him to the Search Results Screen. User can also do the advanced search on Advanced Search Screen which allows him to apply some filters on his query. User can click on Contribute button which leads him to the Contribute Screen.
 
 
 #### Search results
- 
+ ![Search results](https://github.com/hmhamza/educloud/blob/master/User%20Interface%20Mocks/search%20results%20screen.jpg)
 This screen displays the search results that the user searched for on the main screen. User can also search for a new query on this screen.
 
 #### Advanced search
- 
+![Advanced search](https://github.com/hmhamza/educloud/blob/master/User%20Interface%20Mocks/advanced%20search.jpg)
 This screen displays the search results and also allows the user to apply some filters on his query.
 
 #### Contribute screen
+![Contribute screen](https://github.com/hmhamza/educloud/blob/master/User%20Interface%20Mocks/contribute%20screen.jpg)
  
 On this screen, user can upload any material that he wants to share with the learning community of the world. User can fill out the different fields and attach docs to the post.
 
 #### App's widget
+![App's widget](https://github.com/hmhamza/educloud/blob/master/User%20Interface%20Mocks/widget.jpg)
  
 This is the app’s widget which will display the downloaded or marked favorite docs.
 
