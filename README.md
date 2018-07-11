@@ -1,4 +1,6 @@
-# educloud
+# eduCloud
+
+This Android app was developed as a part of Project# 7 (Capstone, Stage 1) and Project# 8 (Capstone, Stage 2) for The Android Developer Nanodegree at Udacity.
 
 ## Project: Capstone, Stage 1 - Design
 #### _Udacity Android Developer Nanodegree Project# 7_
